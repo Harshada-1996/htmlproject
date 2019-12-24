@@ -1,0 +1,35 @@
+.style1{
+          display :inline;
+          border :ridge;
+          background-color: brown;
+          font-family: sans-serif;
+          font-style: italic; 
+          margin-top :50%;
+          margin-left :130pt;
+          padding :5pt;
+       }
+.style2{
+        display :inline;
+        border :ridge;
+        background-color:black;
+        color: chartreuse;
+        padding :5pt;
+        margin-top :50%;
+        margin-left :10pt;
+       }
+.style3{
+        display :inline;
+        border :ridge;
+        background-color:royalblue;
+        padding :5pt;
+        margin-top :50%;
+        margin-left :10pt;
+       }
+.style4{
+        display :inline;
+        border :ridge;
+        background-color:yellow;
+        padding :5pt;
+        margin-top :50%;
+        margin-left:10pt;
+       }
