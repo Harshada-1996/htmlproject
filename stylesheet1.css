@@ -1,0 +1,96 @@
+.header
+{
+      min-width: 320px;
+      height:44px;
+      line-height:44px;
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      color: rgba(255,255,255,0.5);
+      cursor: default;
+      left: 0;
+      position :fixed; 
+      top: 0;
+      width: 100%;
+      z-index: 10001;
+      background: #111111;
+	
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+#banner
+{
+ height: auto !important;
+    min-height: 0;
+    background-image: url("image1.jpeg");
+	padding: 4rem 2rem 4rem 2rem;
+        text-align: center;
+	color:#ffffff;
+	display :flex;
+	background-color: #111111;
+}
+.special h2,p
+{
+ text-align:center;
+}
+.special
+{
+ margin-bottom:20px;
+}
+.highlight
+{
+width: 100%;
+margin: 2rem 0rm 2rem 0rem;
+}
+.flex1
+{
+padding: 5px;
+display: flex;
+flex-direction: row;
+margin-top:10px;
+}
+.highlight div
+{
+width: 350px;
+background-color: #f1f1f1;
+  margin: 5px;
+  font-size: 17px;
+word-wrap: break-word;
+}
+.sectionlast
+{
+   background-image: url("D2WPBR.jpg");
+   height:400px;
+}
+.content strong{
+                color: red;
+               }
+.content{text-align: right;
+font-size: small;}
+
+.footer1{
+background-color: gray;
+}
+ul
+{list-style-type :none;}
+.content1{text-align:left;
+font-size: 25px;}
+.shadow{
+     border-left:7px solid black;
+}
